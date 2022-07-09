@@ -43,6 +43,7 @@
 > datos con el ORM de Django.
 
 ### Habilidades:
+
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
@@ -66,5 +67,19 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Idiomas:
+
 > 1. Espanol Nativo
 > 2. Ingles Basico
+
+### Proyectos en los que demuestro mis habilidades:
+
+#### 1. [NOWPayment Python API](https://github.com/Ventura94/NOWPayments-Python-API)
+
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![image](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=whit)
+
+> Contenedor de Python para la API de la pasarela de pagos NOWPayments.
+
+2. 
