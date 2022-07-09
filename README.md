@@ -2,7 +2,7 @@
 
 #### Ingeniero de Software
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://https://www.linkedin.com/in/v3n2r4)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/v3n2r4)
 
 ### Objetivo Profesional:
 
@@ -85,6 +85,7 @@
 > Contenedor de Python para la API de la pasarela de pagos NOWPayments.
 
 #### 2. [Auth MicroService](https://github.com/Ventura94/AuthMicroservice)
+
 ![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
@@ -96,8 +97,6 @@
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Contacto:
+
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arianventura94@gmail.com)
-![image]( )
-![image]( )
-![image]( )
-![image]( )
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v3n2r4)
