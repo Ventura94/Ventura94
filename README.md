@@ -1,5 +1,4 @@
-# Arian Ventura Rodriguez ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura94)
-
+# Arian Ventura Rodriguez
 
 #### Ingeniero de Software
 
