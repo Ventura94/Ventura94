@@ -1,4 +1,5 @@
-# Arian Ventura Rodriguez
+# Arian Ventura Rodriguez ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura94)
+
 
 #### Ingeniero de Software
 
@@ -64,7 +65,6 @@
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura94)
 
 ### Idiomas:
 > 1. Espanol Nativo
