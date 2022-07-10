@@ -7,21 +7,17 @@
 ### Objetivo Profesional:
 
 > Continuar ampliando mis conocimientos, aprender de grandes profesionales, asumir nuevas responsabilidades y encontrar
-> estabilidad laboral y económica.
+> estabilidad laboral.
 
 ### Sobre mi:
 
-> Soy Desarrollador Python con más de 3 años de experiencia en el uso de este lenguaje, con dominio del desarrollo
-> orientado a objetos, patrones de diseño y arquitectura de software. Acostumbrado a trabajar con distintos lenguajes de
-> programación y desarrollo Back End. Me considero una persona muy implicada, curiosa y con capacidad para detectar y
-> solucionar problemas.
+> Soy Desarrollador Python con más de 3 años de experiencia, domino el desarrollo orientado a objetos, los patrones de
+> diseño y la arquitectura de software. Estoy acostumbrado a trabajar con distintos lenguajes de programación. Me
+> considero una persona muy implicada, curiosa, comunicativa y con capacidad para detectar y solucionar problemas.
 
 ### Educación:
 
-#### Ingeniero de Software en la Universidad de Matanzas "Camilo Cienfuegos", Cuba
-
-> Alumno de mayor competencia del grupo estudiantil, siendo reconocido por liderar proyectos de curso
-> y demostrar competencia en el análisis y diseño de software orientado a objetos.
+#### Ingeniería de Software en la Universidad de Matanzas "Camilo Cienfuegos", Cuba
 
 ### Experiencia:
 
@@ -40,7 +36,7 @@
 
 > Contrato de tiempo parcial de forma Remota para el desarrollo en Django. Trabaje en la creación de test, diseño he
 > implementación de nuevos requisitos, en la refactorización y optimización de consultas a la base de
-> datos con el ORM de Django.
+> datos.
 
 ### Habilidades:
 
@@ -101,7 +97,7 @@
 #### 3 [FreeCodeCamp Projects](https://github.com/Ventura94/FreeCodeCamp_Projects_for_Certificactions)
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-> Retos de FreeCodeCamp resueltos
+> Retos de FreeCodeCamp resueltos.
 
 ### Contacto:
 
