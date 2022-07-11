@@ -66,7 +66,7 @@
 > 1. Espanol Nativo
 > 2. Ingles Basico
 
-### Proyectos en los que demuestro mis habilidades:
+### Proyectos de código abierto en los que demuestro mis habilidades:
 
 #### 1. [NOWPayment Python API](https://github.com/Ventura94/NOWPayments-Python-API)
 
