@@ -4,18 +4,17 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/v3n2r4)
 
-### Objetivo Profesional:
+### Objetivo Profesional🧑‍💻:
 
-> Continuar ampliando mis conocimientos, aprender de grandes profesionales, asumir nuevas responsabilidades y encontrar
-> estabilidad laboral.
+> Ampliar indefinidamente mis conocimientos, aprender de grandes profesionales y asumir nuevas responsabilidades.
 
 ### Sobre mi:
 
-> Soy Desarrollador Python con más de 3 años de experiencia, domino el desarrollo orientado a objetos, los patrones de
+> Soy Desarrollador Python🐍, domino el desarrollo orientado a objetos, los patrones de
 > diseño y la arquitectura de software. Estoy acostumbrado a trabajar con distintos lenguajes de programación. Me
-> considero una persona muy implicada, curiosa, comunicativa y con capacidad para detectar y solucionar problemas.
+> considero una persona muy implicada, curiosa, comunicativa y con capacidad para detectar y solucionar problemas🤯.
 
-### Educación:
+### Educación👨‍🎓:
 
 #### Ingeniería de Software en la Universidad de Matanzas "Camilo Cienfuegos", Cuba
 
@@ -67,7 +66,7 @@
 > 1. Espanol Nativo
 > 2. Ingles Basico
 
-### Proyectos en los que demuestro mis habilidades:
+### Proyectos de código abierto en los que demuestro mis habilidades:
 
 #### 1. [NOWPayment Python API](https://github.com/Ventura94/NOWPayments-Python-API)
 
