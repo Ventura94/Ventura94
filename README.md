@@ -99,6 +99,11 @@
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 > Retos de FreeCodeCamp resueltos.
 
+#### 4 [Patrones de Diseño](https://github.com/Ventura94/Patrones)
+
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+> Ejemplos reales en los que he utilizado patrones.
+
 ### Contacto:
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arianventura94@gmail.com)
