@@ -64,7 +64,7 @@
 ### Idiomas:
 
 > 1. Español Nativo
-> 2. Inglés Basico
+> 2. Inglés Básico
 
 ### Proyectos de código abierto en los que demuestro mis habilidades:
 
