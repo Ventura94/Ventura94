@@ -22,19 +22,19 @@
 
 #### Freelance (2019-2020)
 
-> Realice trabajos con el framework Django y su lenguaje de plantillas, en la integración de pasarelas de pago y
+> Realicé trabajos con el framework Django y su lenguaje de plantillas, en la integración de pasarelas de pago y
 > otras APIs, y test utilizando el framework Pytest.
 
 #### Python Developer en AgapeCoin4All LTD (2020-Actualidad)
 
 > Contratado a tiempo completo de forma Remota, desempeñándome en el desarrollo back-End de la plataforma,
-> adquiriendo experiencia en la implementación de la arquitectura orientada a microservicios
+> adquiriendo experiencia en la implementación de la arquitectura orientada a micro-servicios
 > utilizando el micro-framework FastAPI.
 
 #### Python Back-End Developer en Foodeo (2021-Actualidad)
 
 > Contrato de tiempo parcial de forma Remota para el desarrollo en Django. Trabaje en la creación de test, diseño he
-> implementación de nuevos requisitos, en la refactorización y optimización de consultas a la base de
+> implementación de nuevos requisitos, en la re-factorización y optimización de consultas a la base de
 > datos.
 
 ### Habilidades:
