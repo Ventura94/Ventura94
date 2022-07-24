@@ -90,6 +90,7 @@
 
 #### 3 [FreeCodeCamp Projects](https://github.com/Ventura94/FreeCodeCamp_Projects_for_Certificactions)
 
+![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 > Retos de FreeCodeCamp resueltos.
 
