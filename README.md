@@ -88,13 +88,13 @@
 
 > Ejemplo de sistema proveedor O2Auth implementado en FastAPI.
 
-#### 3 [FreeCodeCamp Projects](https://github.com/Ventura94/FreeCodeCamp_Projects_for_Certificactions)
+#### 3. [FreeCodeCamp Projects](https://github.com/Ventura94/FreeCodeCamp_Projects_for_Certificactions)
 
 ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 > Retos de FreeCodeCamp resueltos.
 
-#### 4 [Patrones de Diseño](https://github.com/Ventura94/Patrones)
+#### 4. [Patrones de Diseño](https://github.com/Ventura94/Patrones)
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 > Ejemplos reales en los que he utilizado patrones.
