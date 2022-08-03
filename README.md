@@ -60,6 +60,8 @@
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Idiomas:
 
@@ -98,6 +100,23 @@
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 > Ejemplos reales en los que he utilizado patrones.
+
+#### 5. [Contador](https://github.com/Ventura94/CustomCounter)
+
+[![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/flutter-ios-android-fernando-herrera)
+![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+> Ejercicio "Contador" del curso Udemy, "Flutter: Tu guía completa de desarrollo para IOS y Android" del profesor Fernando Herrera.
+
+#### 6. [Componentes](https://github.com/Ventura94/Components)
+
+[![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/flutter-ios-android-fernando-herrera)
+![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+> Ejercicio "Componentes" del curso Udemy, "Flutter: Tu guía completa de desarrollo para IOS y Android" del profesor Fernando Herrera.
+
 
 ### Contacto:
 
