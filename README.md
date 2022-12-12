@@ -1,12 +1,8 @@
 # Arian Ventura Rodriguez
 
-#### Ingeniero de Software
+#### Ingeniero de Software, Desarrollador Python
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/v3n2r4)
-
-### Objetivo Profesional🧑‍💻:
-
-> Ampliar indefinidamente mis conocimientos, aprender de grandes profesionales y asumir nuevas responsabilidades.
 
 ### Sobre mi:
 
@@ -17,25 +13,6 @@
 ### Educación👨‍🎓:
 
 #### Ingeniería de Software en la Universidad de Matanzas "Camilo Cienfuegos", Cuba
-
-### Experiencia:
-
-#### Freelance (2019-2020)
-
-> Realicé trabajos con el framework Django y su lenguaje de plantillas, en la integración de pasarelas de pago y
-> otras APIs, y test utilizando el framework Pytest.
-
-#### Python Developer en AgapeCoin4All LTD (2020-Actualidad)
-
-> Contratado a tiempo completo de forma Remota, desempeñándome en el desarrollo back-End de la plataforma,
-> adquiriendo experiencia en la implementación de la arquitectura orientada a micro-servicios
-> utilizando el micro-framework FastAPI.
-
-#### Python Back-End Developer en Foodeo (2021-Actualidad)
-
-> Contrato de tiempo parcial de forma Remota para el desarrollo en Django. Trabaje en la creación de test, diseño he
-> implementación de nuevos requisitos, en la re-factorización y optimización de consultas a la base de
-> datos.
 
 ### Habilidades:
 
@@ -67,56 +44,6 @@
 
 > 1. Español Nativo
 > 2. Inglés Básico
-
-### Proyectos de código abierto en los que demuestro mis habilidades:
-
-#### 1. [NOWPayment Python API](https://github.com/Ventura94/NOWPayments-Python-API)
-
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![image](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
-
-> Contenedor de Python para la API de la pasarela de pagos NOWPayments.
-
-#### 2. [Auth MicroService](https://github.com/Ventura94/AuthMicroservice)
-
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![image](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-> Ejemplo de sistema proveedor O2Auth implementado en FastAPI.
-
-#### 3. [FreeCodeCamp Projects](https://github.com/Ventura94/FreeCodeCamp_Projects_for_Certificactions)
-
-![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-> Retos de FreeCodeCamp resueltos.
-
-#### 4. [Patrones de Diseño](https://github.com/Ventura94/Patrones)
-
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-> Ejemplos reales en los que he utilizado patrones.
-
-#### 5. [Contador](https://github.com/Ventura94/CustomCounter)
-
-[![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/flutter-ios-android-fernando-herrera)
-![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-> Ejercicio "Contador" del curso Udemy, "Flutter: Tu guía completa de desarrollo para IOS y Android" del profesor Fernando Herrera.
-
-#### 6. [Componentes](https://github.com/Ventura94/Components)
-
-[![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/flutter-ios-android-fernando-herrera)
-![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-> Ejercicio "Componentes" del curso Udemy, "Flutter: Tu guía completa de desarrollo para IOS y Android" del profesor Fernando Herrera.
-
 
 ### Contacto:
 
