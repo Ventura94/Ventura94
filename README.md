@@ -1,20 +1,15 @@
 # Arian Ventura Rodriguez
 
-#### Ingeniero de Software, Desarrollador Python
+#### Software Engineer
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/v3n2r4)
 
 ### Sobre mi:
 
-> Soy Desarrollador Python🐍, domino el desarrollo orientado a objetos, los patrones de
-> diseño y la arquitectura de software. Estoy acostumbrado a trabajar con distintos lenguajes de programación. Me
-> considero una persona muy implicada, curiosa, comunicativa y con capacidad para detectar y solucionar problemas🤯.
+> I am a Python Developer🐍, I master object-oriented development,
+> software design and architecture. I am used to working with different programming languages. I
+> I consider myself a very involved, curious, communicative person with the ability to detect and solve problems🤯.
 
-### Educación👨‍🎓:
-
-#### Ingeniería de Software en la Universidad de Matanzas "Camilo Cienfuegos", Cuba
-
-### Habilidades:
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -40,12 +35,7 @@
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Idiomas:
-
-> 1. Español Nativo
-> 2. Inglés Básico
-
-### Contacto:
+### Contact:
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arianventura94@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v3n2r4)
