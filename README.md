@@ -2,9 +2,7 @@
 
 #### Software Engineer
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/v3n2r4)
-
-### Sobre mi:
+### About me:
 
 > I am a Python Developer🐍, I master object-oriented development,
 > software design and architecture. I am used to working with different programming languages. I
